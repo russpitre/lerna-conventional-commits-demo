@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.4](https://github.com/russpitre/lerna-conventional-commits-demo/compare/module-one@0.0.3...module-one@0.0.4) (2021-11-09)
+
+
+### Bug Fixes
+
+* **module-one:** added change log ([fe99986](https://github.com/russpitre/lerna-conventional-commits-demo/commit/fe999869372b02a247b03ed3fdf9f1ccd8de86a5))
+
+
+
+
+
 ## 0.0.3 (2021-11-09)
 
 
