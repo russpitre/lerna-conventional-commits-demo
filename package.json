@@ -1,0 +1,27 @@
+{
+  "name": "demo-conventional-commit",
+  "version": "0.0.1",
+  "description": "A project to demo conventional commits",
+  "main": "index.js",
+  "scripts": {
+    "build": "lerna run build",
+    "clean": "lerna run clean",
+    "sanitize": "lerna run sanitize && npx rimraf node_modules",
+    "postinstall": "lerna bootstrap",
+    "prepare": "husky install"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "7.16.0",
+    "@babel/plugin-transform-runtime": "^7.16.0",
+    "@babel/preset-env": "7.16.0",
+    "@babel/preset-react": "7.16.0",
+    "@commitlint/cli": "^14.1.0",
+    "@commitlint/config-conventional": "^14.1.0",
+    "@commitlint/config-lerna-scopes": "^14.0.0",
+    "husky": "^7.0.4",
+    "lerna": "^4.0.0"
+  },
+  "dependencies": {}
+}

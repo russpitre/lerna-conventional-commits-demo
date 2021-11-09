@@ -1,0 +1,14 @@
+.tmp
+coverage
+node_modules
+.DS_Store
+*.log
+cache
+release
+artifacts
+docs/js
+/**/dist
+.cache/
+.idea
+.vscode
+/**/build
