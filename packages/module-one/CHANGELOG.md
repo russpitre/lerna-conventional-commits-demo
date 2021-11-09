@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.5-dev.0](https://github.com/russpitre/lerna-conventional-commits-demo/compare/module-one@0.0.5-alpha.0...module-one@0.0.5-dev.0) (2021-11-09)
+
+
+### Bug Fixes
+
+* **module-one:** improved message ([2e62963](https://github.com/russpitre/lerna-conventional-commits-demo/commit/2e629634026df39169fa926f180ca0552ecd4917))
+
+
+
+
+
 ## [0.0.5-alpha.0](https://github.com/russpitre/lerna-conventional-commits-demo/compare/module-one@0.0.4...module-one@0.0.5-alpha.0) (2021-11-09)
 
 
