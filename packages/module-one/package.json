@@ -1,6 +1,6 @@
 {
   "name": "module-one",
-  "version": "0.0.5-dev.1",
+  "version": "0.0.5",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
